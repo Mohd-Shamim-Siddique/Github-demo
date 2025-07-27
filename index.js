@@ -26,4 +26,5 @@ function newFeatureAdd (){
     console.log('new feature Add');
     console.log('new feature Add -C');
     console.log('new feature Add -C');
+    console.log('new feature Add -D');
 }
