@@ -2,32 +2,37 @@ const age = 24;
 const name = "Hitesh new";
 const DOB = "01/01/2000"
 
-function sayName () {
+function sayName() {
     console.log("My name is " + name);
 }
 
-function isAbove18 (){
+function isAbove18() {
     return age >= 18
 }
-function newFn (){
+function newFn() {
     console.log('hey i am new fn');
 }
 
-function newFeatureAdd (){
+function newFeatureAdd() {
     console.log('new feature Add');
     console.log('new feature Add -A');
 }
 
-function newFeatureAddB (){
+function newFeatureAddB() {
     console.log('new feature Add');
     console.log('new feature Add -B');
 }
-function newFeatureAdd (){
+function newFeatureAdd() {
     console.log('new feature Add');
     console.log('new feature Add -C');
     console.log('new feature Add -C');
     console.log('new feature Add -D');
-    console.log('new feature Add -Z');  
-    console.log('new feature Add -Z');  
-    console.log('new feature Add -Z');  
+    console.log('new feature Add -Z');
+    console.log('new feature Add -Z');
+    console.log('new feature Add -Z');
+    console.log('new feature Add -D');
+    console.log('new feature Add -D');
+    console.log('new feature Add -D');
+    console.log('new feature Add -D');
+    console.log('new feature Add -D');
 }
